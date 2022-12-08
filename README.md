@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 
 
-Skills: ASP.NET CORE / MVC / API / MSQL SERVER  / JS / HTML / CSS
+Skills: ASP.NET CORE / MVC / API / MSQL SERVER  / JS / HTML / CSS / DevOps 
 
-- 🔭 I’m currently working on my Project Graduation that who to Detecting brain tumors . 
+- 🔭 I graduted from CS . 
+- 🔭 My Project Graduation was about how to Detecting brain tumors using deep learning. 
+- 🔭 Now, I am studing in ITI as Devops engineer. 
 
 
 
