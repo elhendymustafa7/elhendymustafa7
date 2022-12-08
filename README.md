@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="left">About me</h2>
+
 ### Hi there 👋, my name is Mustafa Elhendy
 
 
@@ -67,7 +69,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">About me</h2>
 
 ###
 
