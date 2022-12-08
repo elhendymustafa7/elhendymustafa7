@@ -1,19 +1,3 @@
-
-
-<!--
-**elhendymustafa7/elhendymustafa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="left">About me</h2>
 
 ### Hi there 👋, my name is Mustafa Elhendy
@@ -49,14 +33,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
 </div>
-
-###
-<div align="left">
-  <img src="https://www.linkedin.com/in/mustafa-elhendy-5b01361a6/" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elhendymustafa7)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/elhendymustafa7)  
 
