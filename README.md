@@ -38,7 +38,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/elhendymustafa7)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=elhendymustafa7)  
-<img src="https://raw.githubusercontent.com/e/e/blob/output/snake.svg" alt="Snake animation" />
 
 
 ![Profile views](https://gpvc.arturio.dev/elhendymustafa7)  
