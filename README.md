@@ -34,7 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
 </div>
  
-
+## Contact me
+![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
 
 
 ![Profile views](https://gpvc.arturio.dev/elhendymustafa7)  
