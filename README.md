@@ -35,7 +35,8 @@
 </div>
  
 ## Contact me
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="52" alt="vim logo"  />
+![image]({})
 
 
 ![Profile views](https://gpvc.arturio.dev/elhendymustafa7)  
