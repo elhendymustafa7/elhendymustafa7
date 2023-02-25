@@ -37,6 +37,9 @@
 ## Contact me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="52" alt="vim logo"  />
 ![image]({})
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 
 ![Profile views](https://gpvc.arturio.dev/elhendymustafa7)  
