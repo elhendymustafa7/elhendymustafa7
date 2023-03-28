@@ -50,7 +50,6 @@
 </a>&nbsp;&nbsp;
 
 
-![Profile views](https://gpvc.arturio.dev/elhendymustafa7)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhendymustafa7&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
 
